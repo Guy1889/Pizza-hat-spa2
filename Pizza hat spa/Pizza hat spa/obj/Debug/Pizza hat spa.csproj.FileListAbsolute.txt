@@ -1,0 +1,11 @@
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\bin\Debug\Pizza hat spa.exe.config
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\bin\Debug\Pizza hat spa.exe
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\bin\Debug\Pizza hat spa.pdb
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\obj\Debug\Pizza hat spa.csprojAssemblyReference.cache
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\obj\Debug\Pizza_hat_spa.Form1.resources
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\obj\Debug\Pizza_hat_spa.Form2.resources
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\obj\Debug\Pizza_hat_spa.Properties.Resources.resources
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\obj\Debug\Pizza hat spa.csproj.GenerateResource.cache
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\obj\Debug\Pizza hat spa.csproj.CoreCompileInputs.cache
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\obj\Debug\Pizza hat spa.exe
+C:\Users\jeanr\source\repos\Pizza hat spa\Pizza hat spa\obj\Debug\Pizza hat spa.pdb
